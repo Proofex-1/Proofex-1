@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Proofex-1&label=Profile%20views&color=0e75b6&style=flat" alt="Proofex-1" /> </p>>
 
-- 🔭 I’m currently working on [terrority.club](http://proofexservices.xyz/)
+- 🔭 I’m currently working on [proofexservices.xyz](http://proofexservices.xyz/)
 - 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **youtube.com/@proofex**
