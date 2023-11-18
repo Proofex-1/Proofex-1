@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [proofexservices.xyz](http://proofexservices.xyz/)
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **youtube.com/@proofex**
+- 📫 How to reach me [Youtube](http://youtube.com/@proofex) [Discord](http://discord.gg/sibel)
 
 <h3 align="left">Contact me</h3>
 <p align="left">
