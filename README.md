@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Proofex</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Proofex" alt="Typing SVG" /></a>
+<a href="http://proofexservices.xyz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Proofex" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Proofex-1&label=Profile%20views&color=0e75b6&style=flat" alt="Proofex-1" /> </p>
 
 - 🔭 I’m currently working on [proofexservices.xyz](http://proofexservices.xyz/)
